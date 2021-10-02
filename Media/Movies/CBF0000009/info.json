@@ -7,18 +7,18 @@
     "Genre": "Action, Thriller",
     "Director": {
         "name" : "Prashanth Neel",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Prashanth Neel.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Prashanth Neel.jpg"
     },
     "Producer": {
         "name" : "Vijay Kiragandur",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Vijay Kiragandur.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Vijay Kiragandur.jpg"
     },
     "Writer": "Prashanth Neel",
     "Actors": {
-        "Yash": "https://klart-digi.github.io/Media/actors/Yash.jpg",
-        "Sanjay Dutt": "https://klart-digi.github.io/Media/actors/Sanjay Dutt.jpg",
-        "Rao Ramesh": "https://klart-digi.github.io/Media/actors/Rao Ramesh.jpg",
-        "Srinidhi Shetty": "https://klart-digi.github.io/Media/actors/Srinidhi Shetty.jpg"
+        "Yash": "https://cinibot.github.io/Media/actors/Yash.jpg",
+        "Sanjay Dutt": "https://cinibot.github.io/Media/actors/Sanjay Dutt.jpg",
+        "Rao Ramesh": "https://cinibot.github.io/Media/actors/Rao Ramesh.jpg",
+        "Srinidhi Shetty": "https://cinibot.github.io/Media/actors/Srinidhi Shetty.jpg"
     },
     "Description": "An alcoholic professor is sent to a juvenile school, where he clashes with a gangster who uses the school children for criminal activities.",
     "Language": "Tamil",
@@ -36,8 +36,8 @@
     "ShortName": "K.G.F Chapter 2",
     "Content": "K.G.F Chapter 2",
     "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000009/poster.jpg",
-    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000009/banner.png",
+    "PosterUrl": "https://cinibot.github.io/Media/Movies/CBF0000009/poster.jpg",
+    "bannerUrl": "https://cinibot.github.io/Media/Movies/CBF0000009/banner.png",
     "Tomotometer": "77%",
     "AudienceScore": "77%"
 }

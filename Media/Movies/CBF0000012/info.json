@@ -8,18 +8,18 @@
     "Genre": "Crime, Thriller",
     "Director": {
         "name": "Venkat Prabhu",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Venkat Prabhu.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Venkat Prabhu.jpg"
     },
     "Producer": {
         "name": "Deepan Boopathy",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Deepan Boopathy.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Deepan Boopathy.jpg"
     },
     "Writer": "Deepan Boopathy",
     "Actors": {
-        "TR Silambarasan": "https://klart-digi.github.io/Media/actors/TR Silambarasan.jpg",
-        "Kalyani Priyadarshan": "https://klart-digi.github.io/Media/actors/Kalyani Priyadarshan.jpg",
-        "SJ Surya": "https://klart-digi.github.io/Media/actors/SJ Surya.jpg",
-        "Karuna Karan": "https://klart-digi.github.io/Media/actors/Karuna Karan.jpg"
+        "TR Silambarasan": "https://cinibot.github.io/Media/actors/TR Silambarasan.jpg",
+        "Kalyani Priyadarshan": "https://cinibot.github.io/Media/actors/Kalyani Priyadarshan.jpg",
+        "SJ Surya": "https://cinibot.github.io/Media/actors/SJ Surya.jpg",
+        "Karuna Karan": "https://cinibot.github.io/Media/actors/Karuna Karan.jpg"
     },
     "Description": "A Psychological Thriller",
     "Language": "Tamil",
@@ -37,8 +37,8 @@
     "Website": "N/A",
     "Response": "True",
     "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000012/poster.jpg",
-    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000012/banner.png",
+    "PosterUrl": "https://cinibot.github.io/Media/Movies/CBF0000012/poster.jpg",
+    "bannerUrl": "https://cinibot.github.io/Media/Movies/CBF0000012/banner.png",
     "Tomotometer": "77%",
     "AudienceScore": "77%"
 }

@@ -8,18 +8,18 @@
     "Genre": "Action, Drama",
     "Director": {
         "name": "Mari Selvaraj",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Mari_Selvaraj.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Mari_Selvaraj.jpg"
     },
     "Producer": {
         "name": "Kalaippuli S Thanu",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Thanu.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Thanu.jpg"
     },
     "Writer": "Mari Selvaraj",
     "Actors": {
-        "Dhanush": "https://klart-digi.github.io/Media/actors/Dhanush.jpg",
-        "Lal": "https://klart-digi.github.io/Media/actors/Lal.jpg",
-        "Rajisha Vijayan": "https://klart-digi.github.io/Media/actors/Rajisha Vijayan.jpg",
-        "Yogi Babu": "https://klart-digi.github.io/Media/actors/Yogi_Babu.jpg"
+        "Dhanush": "https://cinibot.github.io/Media/actors/Dhanush.jpg",
+        "Lal": "https://cinibot.github.io/Media/actors/Lal.jpg",
+        "Rajisha Vijayan": "https://cinibot.github.io/Media/actors/Rajisha Vijayan.jpg",
+        "Yogi Babu": "https://cinibot.github.io/Media/actors/Yogi_Babu.jpg"
     },
     "Description": "Karnan, a fearless village youth, must fight for the rights of the conservative people of his village, due to the torture given by a police officer.",
     "Language": "Tamil",
@@ -42,8 +42,8 @@
     "Website": "N/A",
     "Response": "True",
     "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000010/poster.jpg",
-    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000010/banner.png",
+    "PosterUrl": "https://cinibot.github.io/Media/Movies/CBF0000010/poster.jpg",
+    "bannerUrl": "https://cinibot.github.io/Media/Movies/CBF0000010/banner.png",
     "Tomotometer": "77%",
     "AudienceScore": "77%"
 }

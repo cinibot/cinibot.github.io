@@ -7,18 +7,18 @@
     "Genre": "Drama, Sport",
     "Director": {
         "name" : "N. Rajasekar",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
     },
     "Producer": {
         "name" : "kumaresan",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Xavier_Britto.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Xavier_Britto.jpg"
     },
     "Writer": "N/A",
     "Actors": {
-        "Arulnithi": "https://klart-digi.github.io/Media/actors/Arulnithi.jpg",
-        "Jiiva": "https://klart-digi.github.io/Media/actors/Jiiva.jpg",
-        "Manjima Mohan": "https://klart-digi.github.io/Media/actors/Manjima_Mohan.jpg",
-        "Aadukalam Naren": "https://klart-digi.github.io/Media/actors/Aadukalam_Naren.jpg"
+        "Arulnithi": "https://cinibot.github.io/Media/actors/Arulnithi.jpg",
+        "Jiiva": "https://cinibot.github.io/Media/actors/Jiiva.jpg",
+        "Manjima Mohan": "https://cinibot.github.io/Media/actors/Manjima_Mohan.jpg",
+        "Aadukalam Naren": "https://cinibot.github.io/Media/actors/Aadukalam_Naren.jpg"
     },
     "Description": "The story of two friends, Anand and Ashok, story revolving around them on their love, sports, family bondings.",
     "Language": "Tamil",
@@ -38,8 +38,8 @@
     "ShortName": "master",
     "Content": "",
     "TrailerUrl": "https://www.youtube.com/watch?v=aEBhUqhU2oo",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000005/poster.jpg",
-    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000005/banner.png",
+    "PosterUrl": "https://cinibot.github.io/Media/Movies/CBF0000005/poster.jpg",
+    "bannerUrl": "https://cinibot.github.io/Media/Movies/CBF0000005/banner.png",
     "Tomotometer": "77%",
     "AudienceScore": "77%"
 }

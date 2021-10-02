@@ -7,18 +7,18 @@
     "Genre": "Action, Drama",
     "Director": {
         "name" : "Suseenthiran",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
     },
     "Producer": {
         "name" : "kumaresan",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Xavier_Britto.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Xavier_Britto.jpg"
     },
     "Writer": "Suseenthiran",
     "Actors": {
-        "T.R.Silambarasan": "https://klart-digi.github.io/Media/actors/T.R.Silambarasan.jpg",
-        "Bharathiraja": "https://klart-digi.github.io/Media/actors/Bharathiraja.jpeg",
-        "Nidhhi Agerwal": "https://klart-digi.github.io/Media/actors/Nidhhi_Agerwal.jpg",
-        "Nandita Shwetha": "https://klart-digi.github.io/Media/actors/Nandita_Shwetha.jpg"
+        "T.R.Silambarasan": "https://cinibot.github.io/Media/actors/T.R.Silambarasan.jpg",
+        "Bharathiraja": "https://cinibot.github.io/Media/actors/Bharathiraja.jpeg",
+        "Nidhhi Agerwal": "https://cinibot.github.io/Media/actors/Nidhhi_Agerwal.jpg",
+        "Nandita Shwetha": "https://cinibot.github.io/Media/actors/Nandita_Shwetha.jpg"
     },
     "Description": "Eeswaran tells the story of Periyasamy whose simple and joyous life turns into a nightmare with internal familial disputes.",
     "Language": "Tamil",
@@ -38,8 +38,8 @@
     "ShortName": "Eeswaran",
     "Content": "Eeswaran",
     "TrailerUrl": "https://www.youtube.com/watch?v=LDfuP0YeIQk",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000003/poster.jp",
-    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000003/banner.jp",
+    "PosterUrl": "https://cinibot.github.io/Media/Movies/CBF0000003/poster.jp",
+    "bannerUrl": "https://cinibot.github.io/Media/Movies/CBF0000003/banner.jp",
     "Tomotometer": "77%",
     "AudienceScore": "77%"
 }

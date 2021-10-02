@@ -8,18 +8,18 @@
     "Genre": "Action, Comedy, Crime, Thriller",
     "Director": {
         "name": "Nelson Dilipkumar",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Nelson Dilipkumar.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Nelson Dilipkumar.jpg"
     },
     "Producer": {
         "name": "Sivakarthikeyan Doss",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Sivakarthikeyan.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Sivakarthikeyan.jpg"
     },
     "Writer": "Nelson Dilipkumar",
     "Actors": {
-        "Sivakarthikeyan": "https://klart-digi.github.io/Media/actors/Sivakarthikeyan.jpg",
-        "Priyanka Arulmohan": "https://klart-digi.github.io/Media/actors/Priyanka Arul Mohan.jpg",
-        "Yogi Babu": "https://klart-digi.github.io/Media/actors/Yogi_Babu.jpg",
-        "Redin Kingselly": "https://klart-digi.github.io/Media/actors/Redin Kingselly.jpg"
+        "Sivakarthikeyan": "https://cinibot.github.io/Media/actors/Sivakarthikeyan.jpg",
+        "Priyanka Arulmohan": "https://cinibot.github.io/Media/actors/Priyanka Arul Mohan.jpg",
+        "Yogi Babu": "https://cinibot.github.io/Media/actors/Yogi_Babu.jpg",
+        "Redin Kingselly": "https://cinibot.github.io/Media/actors/Redin Kingselly.jpg"
     },
     "Description": "An ordinary cheater doctor become an original doctor because to prove his love and take action on doctors who cheating the people.",
     "Language": "Tamil",
@@ -38,8 +38,8 @@
     "Website": "N/A",
     "Response": "True",
     "TrailerUrl": "https://www.youtube.com/watch?v=UTiXQcrLlv4",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000013/poster.jpg",
-    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000013/banner.png",
+    "PosterUrl": "https://cinibot.github.io/Media/Movies/CBF0000013/poster.jpg",
+    "bannerUrl": "https://cinibot.github.io/Media/Movies/CBF0000013/banner.png",
     "Tomotometer": "77%",
     "AudienceScore": "77%"
 }

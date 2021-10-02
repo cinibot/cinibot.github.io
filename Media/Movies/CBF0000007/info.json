@@ -7,17 +7,17 @@
     "Genre": "Action, Adventure, Fantasy",
     "Director": {
         "name" : "Paul W.S. Anderson",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Lokesh_Kanagaraj.jpg"
     },
     "Producer": {
         "name" : "kumaresan",
-        "imagUrl": "https://klart-digi.github.io/Media/actors/Xavier_Britto.jpg"
+        "imagUrl": "https://cinibot.github.io/Media/actors/Xavier_Britto.jpg"
     },
     "Writer": "Paul W.S. Anderson, Kaname Fujioka",
     "Actors": {
-        "Milla Jovovich": "https://klart-digi.github.io/Media/actors/Milla_Jovovicht.jpg",
-        "Tony Jaa": "https://klart-digi.github.io/Media/actors/Tony_Jaa.jpg",
-        "Ron Perlman": "https://klart-digi.github.io/Media/actors/Ron_Perlman.jpg"
+        "Milla Jovovich": "https://cinibot.github.io/Media/actors/Milla_Jovovicht.jpg",
+        "Tony Jaa": "https://cinibot.github.io/Media/actors/Tony_Jaa.jpg",
+        "Ron Perlman": "https://cinibot.github.io/Media/actors/Ron_Perlman.jpg"
     },
     "Description": "When Lt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with incredible powers. Feature film based on the video game by Capcom.",
     "Language": "English, German, Dutch, French, Spanish, Chinese, Greek, Ancient (to 1453), North American Indian",
@@ -44,8 +44,8 @@
     "ShortName": "Monster Hunter",
     "Content": "Monster Hunter",
     "TrailerUrl": "https://www.youtube.com/watch?v=3od-kQMTZ9M",
-    "PosterUrl": "https://klart-digi.github.io/Media/Movies/CBF0000007/poster.jpg",
-    "bannerUrl": "https://klart-digi.github.io/Media/Movies/CBF0000007/banner.png",
+    "PosterUrl": "https://cinibot.github.io/Media/Movies/CBF0000007/poster.jpg",
+    "bannerUrl": "https://cinibot.github.io/Media/Movies/CBF0000007/banner.png",
     "Tomotometer": "77%",
     "AudienceScore": "77%"
 }
